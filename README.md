@@ -4,7 +4,7 @@
 ### Spring
   - [스프링 클라우드](https://github.com/unie2/Today-I-Learned/blob/main/Spring/%EC%8A%A4%ED%94%84%EB%A7%81%20%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C.md)
 
-
+- - -
 ### 디자인 패턴과 프로그래밍 패러다임
   - [디자인 패턴](https://github.com/unie2/Today-I-Learned/tree/main/%EB%94%94%EC%9E%90%EC%9D%B8%20%ED%8C%A8%ED%84%B4%EA%B3%BC%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%ED%8C%A8%EB%9F%AC%EB%8B%A4%EC%9E%84/01.%20%EB%94%94%EC%9E%90%EC%9D%B8%20%ED%8C%A8%ED%84%B4)
     - [01. 싱글톤 패턴](https://github.com/unie2/Today-I-Learned/blob/main/%EB%94%94%EC%9E%90%EC%9D%B8%20%ED%8C%A8%ED%84%B4%EA%B3%BC%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%ED%8C%A8%EB%9F%AC%EB%8B%A4%EC%9E%84/01.%20%EB%94%94%EC%9E%90%EC%9D%B8%20%ED%8C%A8%ED%84%B4/01.%20%EC%8B%B1%EA%B8%80%ED%86%A4%20%ED%8C%A8%ED%84%B4.md)
@@ -24,3 +24,8 @@
     
 - - -
 ### 네트워크
+  - [네트워크의 기초](https://github.com/unie2/Today-I-Learned/tree/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/01.%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EC%9D%98%20%EA%B8%B0%EC%B4%88)
+    - [01. 처리량과 지연 시간](https://github.com/unie2/Today-I-Learned/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/01.%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EC%9D%98%20%EA%B8%B0%EC%B4%88/01.%20%EC%B2%98%EB%A6%AC%EB%9F%89%EA%B3%BC%20%EC%A7%80%EC%97%B0%20%EC%8B%9C%EA%B0%84.md)
+    - [02. 네트워크 토폴로지와 병목 현상](https://github.com/unie2/Today-I-Learned/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/01.%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EC%9D%98%20%EA%B8%B0%EC%B4%88/02.%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%ED%86%A0%ED%8F%B4%EB%A1%9C%EC%A7%80%EC%99%80%20%EB%B3%91%EB%AA%A9%20%ED%98%84%EC%83%81.md)
+    - [03. 네트워크 분류 & 네트워크 프로토콜 표준화](https://github.com/unie2/Today-I-Learned/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/01.%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EC%9D%98%20%EA%B8%B0%EC%B4%88/03.%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EB%B6%84%EB%A5%98%20%26%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C%20%ED%91%9C%EC%A4%80%ED%99%94.md)
+    - [04. 네트워크 성능 분석 명령어](https://github.com/unie2/Today-I-Learned/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/01.%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EC%9D%98%20%EA%B8%B0%EC%B4%88/04.%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EC%84%B1%EB%8A%A5%20%EB%B6%84%EC%84%9D%20%EB%AA%85%EB%A0%B9%EC%96%B4.md)
