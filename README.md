@@ -29,3 +29,7 @@
     - [02. 네트워크 토폴로지와 병목 현상](https://github.com/unie2/Today-I-Learned/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/01.%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EC%9D%98%20%EA%B8%B0%EC%B4%88/02.%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%ED%86%A0%ED%8F%B4%EB%A1%9C%EC%A7%80%EC%99%80%20%EB%B3%91%EB%AA%A9%20%ED%98%84%EC%83%81.md)
     - [03. 네트워크 분류 & 네트워크 프로토콜 표준화](https://github.com/unie2/Today-I-Learned/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/01.%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EC%9D%98%20%EA%B8%B0%EC%B4%88/03.%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EB%B6%84%EB%A5%98%20%26%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C%20%ED%91%9C%EC%A4%80%ED%99%94.md)
     - [04. 네트워크 성능 분석 명령어](https://github.com/unie2/Today-I-Learned/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/01.%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EC%9D%98%20%EA%B8%B0%EC%B4%88/04.%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EC%84%B1%EB%8A%A5%20%EB%B6%84%EC%84%9D%20%EB%AA%85%EB%A0%B9%EC%96%B4.md)
+
+  - [TCP/IP 4계층 모델](https://github.com/unie2/Today-I-Learned/tree/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/02.%20TCP_IP%204%EA%B3%84%EC%B8%B5%20%EB%AA%A8%EB%8D%B8)
+    - [01. 계층 구조](https://github.com/unie2/Today-I-Learned/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/02.%20TCP_IP%204%EA%B3%84%EC%B8%B5%20%EB%AA%A8%EB%8D%B8/01.%20%EA%B3%84%EC%B8%B5%20%EA%B5%AC%EC%A1%B0.md)
+    - [02. PDU](https://github.com/unie2/Today-I-Learned/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/02.%20TCP_IP%204%EA%B3%84%EC%B8%B5%20%EB%AA%A8%EB%8D%B8/02.%20PDU.md)
