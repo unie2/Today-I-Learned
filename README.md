@@ -35,3 +35,4 @@
     - [02. PDU](https://github.com/unie2/Today-I-Learned/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/02.%20TCP_IP%204%EA%B3%84%EC%B8%B5%20%EB%AA%A8%EB%8D%B8/02.%20PDU.md)
     - [03. 네트워크 기기](https://github.com/unie2/Today-I-Learned/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/02.%20TCP_IP%204%EA%B3%84%EC%B8%B5%20%EB%AA%A8%EB%8D%B8/03.%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EA%B8%B0%EA%B8%B0.md)
     - [04. IP 주소](https://github.com/unie2/Today-I-Learned/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/02.%20TCP_IP%204%EA%B3%84%EC%B8%B5%20%EB%AA%A8%EB%8D%B8/04.%20IP%20%EC%A3%BC%EC%86%8C.md)
+    - [05. HTTP](https://github.com/unie2/Today-I-Learned/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/02.%20TCP_IP%204%EA%B3%84%EC%B8%B5%20%EB%AA%A8%EB%8D%B8/05.%20HTTP.md)
