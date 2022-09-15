@@ -36,3 +36,9 @@
   - [네트워크 기기](https://github.com/unie2/Today-I-Learned/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/03.%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EA%B8%B0%EA%B8%B0/01.%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EA%B8%B0%EA%B8%B0.md)
   - [ARP, IP 주소](https://github.com/unie2/Today-I-Learned/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/04.%20IP%EC%A3%BC%EC%86%8C/01.%20ARP%2C%20IP%20%EC%A3%BC%EC%86%8C.md)
   - [HTTP](https://github.com/unie2/Today-I-Learned/blob/main/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/05.%20HTTP/01.%20HTTP.md)
+
+- - -
+### 운영체제
+  - [운영체제와 컴퓨터](https://github.com/unie2/Today-I-Learned/tree/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/01.%20%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%EC%99%80%20%EC%BB%B4%ED%93%A8%ED%84%B0)
+    - [01. 운영체제의 역할과 구조](https://github.com/unie2/Today-I-Learned/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/01.%20%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%EC%99%80%20%EC%BB%B4%ED%93%A8%ED%84%B0/01.%20%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%EC%9D%98%20%EC%97%AD%ED%95%A0%EA%B3%BC%20%EA%B5%AC%EC%A1%B0.md)
+    - [02. 컴퓨터의 요소](https://github.com/unie2/Today-I-Learned/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/01.%20%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%EC%99%80%20%EC%BB%B4%ED%93%A8%ED%84%B0/02.%20%EC%BB%B4%ED%93%A8%ED%84%B0%EC%9D%98%20%EC%9A%94%EC%86%8C.md)
