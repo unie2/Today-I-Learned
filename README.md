@@ -42,3 +42,8 @@
   - [운영체제와 컴퓨터](https://github.com/unie2/Today-I-Learned/tree/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/01.%20%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%EC%99%80%20%EC%BB%B4%ED%93%A8%ED%84%B0)
     - [01. 운영체제의 역할과 구조](https://github.com/unie2/Today-I-Learned/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/01.%20%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%EC%99%80%20%EC%BB%B4%ED%93%A8%ED%84%B0/01.%20%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%EC%9D%98%20%EC%97%AD%ED%95%A0%EA%B3%BC%20%EA%B5%AC%EC%A1%B0.md)
     - [02. 컴퓨터의 요소](https://github.com/unie2/Today-I-Learned/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/01.%20%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%EC%99%80%20%EC%BB%B4%ED%93%A8%ED%84%B0/02.%20%EC%BB%B4%ED%93%A8%ED%84%B0%EC%9D%98%20%EC%9A%94%EC%86%8C.md)
+
+  - [메모리](https://github.com/unie2/Today-I-Learned/tree/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/02.%20%EB%A9%94%EB%AA%A8%EB%A6%AC)
+    - [01. 메모리 계층](https://github.com/unie2/Today-I-Learned/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/02.%20%EB%A9%94%EB%AA%A8%EB%A6%AC/01.%20%EB%A9%94%EB%AA%A8%EB%A6%AC%20%EA%B3%84%EC%B8%B5.md)
+    - [02. 메모리 관리](https://github.com/unie2/Today-I-Learned/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/02.%20%EB%A9%94%EB%AA%A8%EB%A6%AC/02.%20%EB%A9%94%EB%AA%A8%EB%A6%AC%20%EA%B4%80%EB%A6%AC.md)
+
